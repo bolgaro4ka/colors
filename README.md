@@ -19,7 +19,9 @@
 
  -     n_repeat - количество повторений (имеет смысл для mod = repeat_text и repeat), по умолчанию 20
 
-
+Для работы требуется модуль colorama:
+ -     pip install colorama
+    
 ПРИМЕРЫ:
  - backgrounds(mod='random_text', text='H')
  - backgrounds(mod='combi', text='bolgaro4ka')
